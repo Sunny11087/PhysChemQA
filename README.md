@@ -29,18 +29,6 @@
 
 ## 项目演示
 
-开始界面
-
-![开始界面](https://github.com/superY688/DocuMind/blob/master/images/image1.png)
-
-上传文档，问答演示
-
-![上传文档，问答演示](https://github.com/superY688/DocuMind/blob/master/images/image2.png)
-
-支持切换不同的大语言模型进行回答，并且支持自定义添加新的模型
-
-![支持切换不同的大语言模型进行回答，并且支持自定义添加新的模型](https://github.com/superY688/DocuMind/blob/master/images/image3.png)
-
 ## 安装指南
 
 ### 环境要求
