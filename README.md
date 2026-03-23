@@ -41,7 +41,7 @@
 1. 克隆项目代码
 
 ```bash
-git clone https://github.com/superY688/DocuMind.git
+
 cd documind
 ```
 
