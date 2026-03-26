@@ -28,7 +28,7 @@
 - **文档处理**：PyPDF2, python-docx, langchain
 
 ## 项目演示
-
+images/屏幕截图 2026-03-19 224215.png
 ## 安装指南
 
 ### 环境要求
