@@ -28,9 +28,12 @@
 - **文档处理**：PyPDF2, python-docx, langchain
 
 ## 项目演示
+![项目演示截图](images/zhucei.png)
+![项目演示截图](images/zhucei.png)
 ![项目演示截图](images/215.png)
 ![项目演示截图](images/512.png)
 ![项目演示截图](images/418.png)
+
 ## 安装指南
 
 ### 环境要求
