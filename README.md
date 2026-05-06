@@ -13,7 +13,7 @@
 
 ### 技术亮点
 
-- **向量数据库集成**：使用FAISS实现高效的语义检索
+
 - **文本分块与嵌入**：采用先进的文本分块策略和嵌入技术
 - **上下文增强**：通过RAG (Retrieval-Augmented Generation) 技术提升回答质量
 - **模型适配层**：灵活支持不同大模型API的统一调用接口
@@ -24,7 +24,6 @@
 - **前端**：Streamlit
 - **后端**：FastAPI
 - **大模型**：默认支持智谱ChatGLM、百度文心一言等国内开源模型
-- **向量数据库**：FAISS
 - **文档处理**：PyPDF2, python-docx, langchain
 
 ## 项目演示
@@ -87,23 +86,7 @@ streamlit run app.py
 - **对话历史**：保存问答历史记录，支持继续对话
 - **参数调整**：可以调整检索参数、上下文窗口大小等
 
-## 项目结构
 
-```
-documind/
-├── app.py                 # 主应用入口
-├── requirements.txt       # 项目依赖
-├── .env                   # 环境变量配置
-├── README.md              # 项目说明
-├── docs/                  # 文档目录
-├── src/
-│   ├── models/            # 模型适配层
-│   ├── document_processor/ # 文档处理模块
-│   ├── vector_store/      # 向量存储模块
-│   ├── utils/             # 工具函数
-│   └── config.py          # 配置文件
-└── tests/                 # 测试代码
-```
 
 ## 开发指南
 
